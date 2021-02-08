@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Rocket Blocker
-Plugin URI: 
+Plugin URI: https://github.com/Katrina-Dierking/Rocket-Blocker-Plugin
 Description: Plugin for blocking Rocket caching notifications
 Version: 1.0.0
 Contributors: katrina-dierking
@@ -14,7 +14,7 @@ Domain Path:  /languages
 */
 
 // If this file is called directly, abort.
-if ( ! defined( 'WPINC' ) ) {
+if ( ! defined( 'ASPATH' ) ) {
 	die;
 }
 
